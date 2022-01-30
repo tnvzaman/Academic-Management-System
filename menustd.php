@@ -1,5 +1,5 @@
 <?php include('connection.php');
-      include('stdlogcheck.php');
+      include('faculty/stdlogcheck.php');
 
 ?>
 <!DOCTYPE html>

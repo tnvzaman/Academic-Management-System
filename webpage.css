@@ -1,0 +1,128 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+
+body {
+    font-family: 'Zilla Slab', serif;
+    background-color: #B6BFB9;
+    
+}
+
+header {
+    
+    background: limegreen;
+    width: 80%;
+    height: 10vh;
+    margin: auto;
+    text-align: center;
+    padding: 20px 0px 0px 0px;
+    
+    
+}
+a {
+    text-decoration: none;
+}
+#facBox {
+    width: 1000px;
+    height: auto;
+    border: 2px solid black;
+    margin: 20px auto;
+    background-color: lightgreen;
+    
+}
+
+#stdBox {
+    width: 950px;
+    height: auto;
+    border: 2px solid black;
+    margin: 20px auto;
+    background-color: lightgreen;
+}
+#adviseBox
+{
+    width: 950px;
+    height: auto;
+    border: 2px solid black;
+    margin: 20px auto;
+    background-color: lightgreen;
+}
+#gradeBox
+{
+    width: 500px;
+    height: auto;
+    border: 2px solid black;
+    margin: 20px auto;
+    background-color: lightgreen;
+}
+#shedBox
+{
+    width: auto;
+    height: auto;
+    border: 2px solid black;
+    margin: 20px auto;
+    background-color: lightgreen;
+}
+#facBox h1{
+    text-align: center;
+    background-color: darkgreen;
+}
+table, tr, th{
+    border-bottom: 1px solid #000;
+    
+    font-size: 17px;
+    
+
+}
+
+th, td {
+    padding: 20px;
+}
+.btn-add {
+    margin-top: 20px;
+    background-color: darkgreen;
+    width: 100px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.wrapper {
+    border: 1 px solid black;
+    padding: 1%;
+    width: 80%;
+    margin:0 auto;
+    text-align: center;
+    font-size: 25px;
+}
+.menu ul {
+    list-style-type: none;
+}
+.menu ul li {
+    display: inline;
+    padding: 1%;
+    font-weight: bold;
+    color:darkgreen;
+    
+     
+}
+.menu ul li a{
+    font-weight: bold;
+    color:darkgreen;
+}
+.studlogin 
+{
+    width:20%;
+    border: 1px solid;
+    margin: 10% auto;
+    text-align: center;
+}
+.studlogin h1{
+    text-align: center;
+}
+.loginerror{
+    text-align: center;
+}
+

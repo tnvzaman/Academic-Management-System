@@ -1,5 +1,5 @@
 <?php include('connection.php'); 
-      include('faclogcheck.php');  
+      include('faculty/faclogcheck.php');  
 ?>
 <!DOCTYPE html>
 <html lang="en">
